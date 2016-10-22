@@ -1,4 +1,6 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+Once upon a time many authors collaborated to make a meaningless linked story.
+
+Above all, there is [Love](http://imgur.com/gallery/45tJARh).
 
 NGE is [here] (NGE/NGE.md)
 
